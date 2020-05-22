@@ -4,6 +4,8 @@ layout: post
 description: A Lifestyle tool to help track and organize meals, groceries, and recipes.
 categories: [food,golang,web apps]
 title: Meals Made Easy
+hide: false
+comments: true
 ---
 
 ## Background
