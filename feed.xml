@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://a-shah19.github.io/personal_blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://a-shah19.github.io/personal_blog/" rel="alternate" type="text/html" /><updated>2020-04-22T03:54:24-05:00</updated><id>https://a-shah19.github.io/personal_blog/feed.xml</id><title type="html">fastpages</title><subtitle>An easy to use blogging platform with support for Jupyter Notebooks.</subtitle><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://a-shah19.github.io/personal_blog/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://a-shah19.github.io/personal_blog/jupyter/2020/02/20/test</id><content type="html" xml:base="https://a-shah19.github.io/personal_blog/jupyter/2020/02/20/test.html">&lt;!--
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://a-shah19.github.io/personal_blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://a-shah19.github.io/personal_blog/" rel="alternate" type="text/html" /><updated>2020-05-22T18:26:48-05:00</updated><id>https://a-shah19.github.io/personal_blog/feed.xml</id><title type="html">fastpages</title><subtitle>An easy to use blogging platform with support for Jupyter Notebooks.</subtitle><entry><title type="html">Meals Made Easy</title><link href="https://a-shah19.github.io/personal_blog/food/golang/web%20apps/2020/04/26/meals-made-easy.html" rel="alternate" type="text/html" title="Meals Made Easy" /><published>2020-04-26T00:00:00-05:00</published><updated>2020-04-26T00:00:00-05:00</updated><id>https://a-shah19.github.io/personal_blog/food/golang/web%20apps/2020/04/26/meals-made-easy</id><content type="html" xml:base="https://a-shah19.github.io/personal_blog/food/golang/web%20apps/2020/04/26/meals-made-easy.html">&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;Being unhealthy, eating junk food, and consuming massive portions are easy because we succumb to our urges. So, why not have a personalized tool that makes staying on track easy for dietary goals, meal planning, and pantry tracking? Meals made easy helps ease the transition to a cleaner and healthier lifestyle with the three main focuses:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#pantry&quot;&gt;&lt;strong&gt;Pantry&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#recipe-book&quot;&gt;&lt;strong&gt;Recipe Book&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#meal-planner&quot;&gt;&lt;strong&gt;Meal Planner&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;pantry&quot;&gt;Pantry&lt;/h2&gt;
+
+&lt;p&gt;The Pantry allows you to keep track of what groceries and supplies you have on hand. Each item is added with a suggested expiration or “use-by” date so you know before the fridge starts smelling rotten. The pantry also allows you to consume ingredients as you go and update how many you have left as you make each recipe.&lt;/p&gt;
+
+&lt;h2 id=&quot;recipe-book&quot;&gt;Recipe Book&lt;/h2&gt;
+
+&lt;p&gt;The Recipe book is a digital record of your favorite dishes and creations. Whether it be scrambled eggs for breakfast or a 5 course meal, you can log any necessary ingredients and the steps you followed to create your meal. Ingredients can be pulled in from the Pantry or entered manually for ease of use. Additionally, you can log nutritional information like calories, protein, fat content, etc. to have a better understanding of what you’re consuming.&lt;/p&gt;
+
+&lt;h2 id=&quot;meal-planner&quot;&gt;Meal Planner&lt;/h2&gt;
+
+&lt;p&gt;The Meal Planner allows you to schedule meals over the course of the week by pulling in recipes from your Recipe book or independently adding them. The Meal planner also sums up your nutritional intake over the course of the day and gives you a daily summary of what you’re putting into your body to see if you’re hitting your dietary goals.&lt;/p&gt;</content><author><name></name></author><summary type="html">Background</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://a-shah19.github.io/personal_blog/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://a-shah19.github.io/personal_blog/jupyter/2020/02/20/test</id><content type="html" xml:base="https://a-shah19.github.io/personal_blog/jupyter/2020/02/20/test.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
@@ -849,4 +870,16 @@ wget https://example.com/cat_photo1.png
       &lt;p&gt;This is the footnote. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Example Markdown Post</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Example Markdown Post</summary></entry><entry><title type="html">Meals Made Easy</title><link href="https://a-shah19.github.io/personal_blog/food/golang/web%20apps/2018/12/18/ai-nutrition-advisor.html" rel="alternate" type="text/html" title="Meals Made Easy" /><published>2018-12-18T00:00:00-06:00</published><updated>2018-12-18T00:00:00-06:00</updated><id>https://a-shah19.github.io/personal_blog/food/golang/web%20apps/2018/12/18/ai-nutrition-advisor</id><content type="html" xml:base="https://a-shah19.github.io/personal_blog/food/golang/web%20apps/2018/12/18/ai-nutrition-advisor.html">&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;While pizza, pancakes, and burgers are super tasty, their nutritional information can be really scary. How scary? It’s hard to tell by looking at it, but with the AI nutritional advisor you can tell by just taking a photo. This desktop app allows you to take a picture of a food and understand what it is as well as its nutritional content.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;front-end&quot;&gt;Front End&lt;/h2&gt;
+
+&lt;p&gt;This Desktop Application is simple and runs in a python window giving options to &lt;em&gt;select an image&lt;/em&gt; from your local files and then to &lt;em&gt;classify&lt;/em&gt; it using the pre-trained weights of a Convolutional Neural Network. After hitting classify, a window pops up showing the name of the food item, essential information like &lt;em&gt;Calories, Fat Content, Cholesterol, Sodium, Carbohydrates, and Protein,&lt;/em&gt; and how that food contributes to a suggested diet. The information is pulled from a local cache of health information for each class.&lt;/p&gt;
+
+&lt;h2 id=&quot;convolutional-neural-network&quot;&gt;Convolutional Neural Network&lt;/h2&gt;
+
+&lt;p&gt;This application leverages a convolutional neural network based on the VGG16 model that was pre-trained on the ImageNet data set. We took the existing model and did fine-tuning training on 10 classes of food images with 100 images each to produce a set of weights. These weights are used when classifying an uploaded image that is passed through the network with a forward pass and outputs the highest probability match from the last layer of the network.&lt;/p&gt;</content><author><name></name></author><summary type="html">Background</summary></entry></feed>
