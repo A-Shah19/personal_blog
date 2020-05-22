@@ -2,15 +2,13 @@
 toc: true
 layout: post
 description: An AI app to automatically break down the nutrition information from every day foods
-categories: [food,golang,web apps]
-title: Meals Made Easy
+categories: [food,nutrition,desktop apps]
+title: AI Nutrition Advisor
 ---
 
 ## Background
 
 While pizza, pancakes, and burgers are super tasty, their nutritional information can be really scary. How scary? It's hard to tell by looking at it, but with the AI nutritional advisor you can tell by just taking a photo. This desktop app allows you to take a picture of a food and understand what it is as well as its nutritional content. 
-
----
 
 ## Front End
 
