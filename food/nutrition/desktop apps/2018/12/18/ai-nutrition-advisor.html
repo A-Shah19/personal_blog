@@ -120,7 +120,8 @@ window.onload = wrap_img;
 </ul><h2 id="background">
 <a class="anchor" href="#background" aria-hidden="true"><span class="octicon octicon-link"></span></a>Background</h2>
 
-<p>While pizza, pancakes, and burgers are super tasty, their nutritional information can be really scary. How scary? It’s hard to tell by looking at it, but with the AI nutritional advisor you can tell by just taking a photo. This desktop app allows you to take a picture of a food and understand what it is as well as its nutritional content.</p>
+<p>While pizza, pancakes, and burgers are super tasty, their nutritional information can be really scary. How scary? It’s hard to tell by looking at it, but with the AI nutritional advisor you can tell by just taking a photo. This desktop app allows you to take a picture of a food and understand what it is as well as its nutritional content. <em>This project was developed by Amar Shah,Nehal Rawat, Nihar Sidhu, Shreya Subramanian, and Thomas Chen as our semester-long project in CS 4701: Practicum in Artificial Intelligence</em>
+The Github repo containing this project can be found here: <em>https://github.com/nehalrawat/AI-Nutrition-Project</em></p>
 
 <h2 id="front-end">
 <a class="anchor" href="#front-end" aria-hidden="true"><span class="octicon octicon-link"></span></a>Front End</h2>
@@ -130,9 +131,17 @@ window.onload = wrap_img;
 <h2 id="convolutional-neural-network">
 <a class="anchor" href="#convolutional-neural-network" aria-hidden="true"><span class="octicon octicon-link"></span></a>Convolutional Neural Network</h2>
 
-<p>This application leverages a convolutional neural network based on the VGG16 model that was pre-trained on the ImageNet data set. We took the existing model and did fine-tuning training on 10 classes of food images with 100 images each to produce a set of weights. These weights are used when classifying an uploaded image that is passed through the network with a forward pass and outputs the highest probability match from the last layer of the network.</p>
+<p>This application leverages a convolutional neural network based on the VGG16 model that was pre-trained on the ImageNet data set. We took the existing model and did fine-tuning training on 10 classes of food images with 100 images each to produce a set of weights. These weights are used when classifying an uploaded image that is passed through the network with a forward pass and outputs the highest probability match from the last layer of the network. The high probability classification match is then passed back to the front-end where it is displayed to the user with its name and nutritional information.</p>
 
-  </div><a class="u-url" href="/personal_blog/food/nutrition/desktop%20apps/2018/12/18/ai-nutrition-advisor.html" hidden></a>
+  </div><!-- from https://github.com/utterance/utterances -->
+<script src="https://utteranc.es/client.js"
+        repo="A-Shah19/personal_blog"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script><a class="u-url" href="/personal_blog/food/nutrition/desktop%20apps/2018/12/18/ai-nutrition-advisor.html" hidden></a>
 </article>
       </div>
     </main><footer class="site-footer h-card">
