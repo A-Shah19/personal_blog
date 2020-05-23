@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "**Background I graduated with my Bachelor’s in Computer Science from Cornell University in 2019 and have been a software engineer in the San Francisco Bay Area since then. Check out my main website **here. . **Interests I am a software engineer, landscape photographer, and self proclaimed cooking fanatic. My professional interests are in backend engineering for scalable cloud based systems, computer vision applications in medical imaging, and understanding culinary preferences with natural language processing. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://a-shah19.github.io/personal_blog/about/",
           "relUrl": "/about/",
           "date": ""
