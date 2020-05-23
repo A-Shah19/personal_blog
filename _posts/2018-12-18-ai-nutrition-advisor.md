@@ -10,8 +10,9 @@ comments: true
 
 ## Background
 
-While pizza, pancakes, and burgers are super tasty, their nutritional information can be really scary. How scary? It's hard to tell by looking at it, but with the AI nutritional advisor you can tell by just taking a photo. This desktop app allows you to take a picture of a food and understand what it is as well as its nutritional content. *This project was developed by Amar Shah,Nehal Rawat, Nihar Sidhu, Shreya Subramanian, and Thomas Chen as our semester-long project in CS 4701: Practicum in Artificial Intelligence*
-The Github repo containing this project can be found here: *https://github.com/nehalrawat/AI-Nutrition-Project*
+While pizza, pancakes, and burgers are super tasty, their nutritional information can be really scary. How scary? It's hard to tell by looking at it, but with the AI nutritional advisor you can tell by just taking a photo. This desktop app allows you to take a picture of a food and understand what it is as well as its nutritional content. \
+*This project was developed by Amar Shah,Nehal Rawat, Nihar Sidhu, Shreya Subramanian, and Thomas Chen as our semester-long project in CS 4701: Practicum in Artificial Intelligence*
+The Github repo containing this project can be found [here](https://github.com/nehalrawat/AI-Nutrition-Project).
 
 ## Front End
 
